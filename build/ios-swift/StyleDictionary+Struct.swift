@@ -4,12 +4,18 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 19 Apr 2023 06:59:05 GMT
+// Generated on Wed, 19 Apr 2023 10:47:46 GMT
 
 
 import UIKit
 
 internal struct StyleDictionaryStruct {
+    internal static let hris0 = 2px
+    internal static let hris1 = 4px
+    internal static let hris2 = 8px
+    internal static let hris3 = 16px
+    internal static let hris4 = 24px
+    internal static let hris5 = 99px
     internal static let hrisActiveNoti = #ffeeee
     internal static let hrisBlack = #000000
     internal static let hrisBlueActive = #10437e

@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 19 Apr 2023 06:59:05 GMT
+// Generated on Wed, 19 Apr 2023 10:47:46 GMT
 
 
 
@@ -13,6 +13,12 @@ import 'dart:ui';
 class StyleDictionary {
   StyleDictionary._();
 
+    static const hris0 = 2px;
+    static const hris1 = 4px;
+    static const hris2 = 8px;
+    static const hris3 = 16px;
+    static const hris4 = 24px;
+    static const hris5 = 99px;
     static const hrisActiveNoti = #ffeeee;
     static const hrisBlack = #000000;
     static const hrisBlueActive = #10437e;

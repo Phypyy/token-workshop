@@ -4,12 +4,18 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 19 Apr 2023 06:59:05 GMT
+// Generated on Wed, 19 Apr 2023 10:47:46 GMT
 
 
 import UIKit
 
 public enum StyleDictionaryEnum {
+    public static let hris0 = 2px
+    public static let hris1 = 4px
+    public static let hris2 = 8px
+    public static let hris3 = 16px
+    public static let hris4 = 24px
+    public static let hris5 = 99px
     public static let hrisActiveNoti = #ffeeee
     public static let hrisBlack = #000000
     public static let hrisBlueActive = #10437e
