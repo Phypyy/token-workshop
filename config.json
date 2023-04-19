@@ -21,6 +21,7 @@
         },
         "ios-swift": {
             "transformGroup": "ios-swift",
+            "prefix": "hris",
             "buildPath": "build/ios-swift/",
             "files": [{
                 "destination": "StyleDictionary+Class.swift",
@@ -42,6 +43,17 @@
                     "objectType": "struct",
                     "accessControl": "internal"
                 }
+            }]
+        },
+        "flutter": {
+            "transformGroup": "flutter",
+            "prefix": "hris",
+            "buildPath": "build/flutter/",
+            "files": [{
+                "destination": "style_dictionary.dart",
+                "format": "flutter/class.dart",
+                "className": "StyleDictionary",
+                "filter": {}
             }]
         }
 
