@@ -4,18 +4,12 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 19 Apr 2023 10:47:46 GMT
+// Generated on Wed, 19 Apr 2023 10:52:07 GMT
 
 
 import UIKit
 
 internal struct StyleDictionaryStruct {
-    internal static let hris0 = 2px
-    internal static let hris1 = 4px
-    internal static let hris2 = 8px
-    internal static let hris3 = 16px
-    internal static let hris4 = 24px
-    internal static let hris5 = 99px
     internal static let hrisActiveNoti = #ffeeee
     internal static let hrisBlack = #000000
     internal static let hrisBlueActive = #10437e
@@ -73,6 +67,12 @@ internal struct StyleDictionaryStruct {
     internal static let hrisPrimaryDisabled = #19ae9c4d
     internal static let hrisPrimaryHover = #138375
     internal static let hrisPrimaryPrimary = #19ae9c
+    internal static let hrisRadius0 = 2px
+    internal static let hrisRadius1 = 4px
+    internal static let hrisRadius2 = 8px
+    internal static let hrisRadius3 = 16px
+    internal static let hrisRadius4 = 24px
+    internal static let hrisRadius5 = 99px
     internal static let hrisRedActive = #651b27
     internal static let hrisRedDisabled = #f0425f4d
     internal static let hrisRedHover = #b43247

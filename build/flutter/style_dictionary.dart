@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 19 Apr 2023 10:47:46 GMT
+// Generated on Wed, 19 Apr 2023 10:52:07 GMT
 
 
 
@@ -13,12 +13,6 @@ import 'dart:ui';
 class StyleDictionary {
   StyleDictionary._();
 
-    static const hris0 = 2px;
-    static const hris1 = 4px;
-    static const hris2 = 8px;
-    static const hris3 = 16px;
-    static const hris4 = 24px;
-    static const hris5 = 99px;
     static const hrisActiveNoti = #ffeeee;
     static const hrisBlack = #000000;
     static const hrisBlueActive = #10437e;
@@ -76,6 +70,12 @@ class StyleDictionary {
     static const hrisPrimaryDisabled = #19ae9c4d;
     static const hrisPrimaryHover = #138375;
     static const hrisPrimaryPrimary = #19ae9c;
+    static const hrisRadius0 = 2px;
+    static const hrisRadius1 = 4px;
+    static const hrisRadius2 = 8px;
+    static const hrisRadius3 = 16px;
+    static const hrisRadius4 = 24px;
+    static const hrisRadius5 = 99px;
     static const hrisRedActive = #651b27;
     static const hrisRedDisabled = #f0425f4d;
     static const hrisRedHover = #b43247;

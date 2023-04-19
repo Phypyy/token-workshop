@@ -19,13 +19,14 @@
   .button {
     background-color: var(--hris-primary-primary);
     border: none;
-    border-radius: 8px;
-    color: white;
+    border-radius: var(--hris-radius-2);
+    color: var(--hris-white);
     padding: 15px 32px;
     text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
+    text-decoration: var(--hris-text-decoration-none);
+    font-size: var(--hris-text-sm-medium-font-size);
+    font-weight: var(--hris-font-weights-kanit-3);
+    line-height: var(--hris-text-sm-medium-line-height);
   }
   .button :hover{
     background-color: var(--hris-primary-hover);

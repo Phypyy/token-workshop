@@ -4,18 +4,12 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 19 Apr 2023 10:47:46 GMT
+// Generated on Wed, 19 Apr 2023 10:52:07 GMT
 
 
 import UIKit
 
 public class StyleDictionaryClass {
-    public static let hris0 = 2px
-    public static let hris1 = 4px
-    public static let hris2 = 8px
-    public static let hris3 = 16px
-    public static let hris4 = 24px
-    public static let hris5 = 99px
     public static let hrisActiveNoti = #ffeeee
     public static let hrisBlack = #000000
     public static let hrisBlueActive = #10437e
@@ -73,6 +67,12 @@ public class StyleDictionaryClass {
     public static let hrisPrimaryDisabled = #19ae9c4d
     public static let hrisPrimaryHover = #138375
     public static let hrisPrimaryPrimary = #19ae9c
+    public static let hrisRadius0 = 2px
+    public static let hrisRadius1 = 4px
+    public static let hrisRadius2 = 8px
+    public static let hrisRadius3 = 16px
+    public static let hrisRadius4 = 24px
+    public static let hrisRadius5 = 99px
     public static let hrisRedActive = #651b27
     public static let hrisRedDisabled = #f0425f4d
     public static let hrisRedHover = #b43247
