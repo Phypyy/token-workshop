@@ -21,17 +21,17 @@
     border: none;
     border-radius: var(--hris-radius-2);
     color: var(--hris-white);
-    padding: 15px 32px;
+    padding: var(--hris-spacing-2) var(--hris-spacing-3);
     text-align: center;
     text-decoration: var(--hris-text-decoration-none);
     font-size: var(--hris-text-sm-medium-font-size);
-    font-weight: var(--hris-font-weights-kanit-3);
+    font-weight: var(--hris-text-sm-medium-font-weight);
     line-height: var(--hris-text-sm-medium-line-height);
   }
-  .button :hover{
+  .button:hover{
     background-color: var(--hris-primary-hover);
   }
-  .button :active{
+  .button:active{
     background-color: var(--hris-primary-active);
   }
   </style> 
