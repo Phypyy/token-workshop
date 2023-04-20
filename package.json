@@ -8,7 +8,7 @@
         "preview": "vite preview",
         "style-dictionary:build": "style-dictionary build",
         "tokens:build": "npm run tokens:transform && npm run style-dictionary:build",
-        "tokens:transform": "token-transformer ./tokens/tokens.json ./tokens/tokenTransform.json global,Theme --expandTypography"
+        "tokens:transform": "token-transformer ./tokens/tokens.json ./tokens/tokenTransform.json global,Theme --expandTypography --expandShadow"
     },
     "dependencies": {
         "vue": "^3.2.47"
