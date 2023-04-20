@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 19 Apr 2023 11:27:31 GMT
+// Generated on Thu, 20 Apr 2023 02:31:19 GMT
 
 
 import UIKit
@@ -78,11 +78,60 @@ public enum StyleDictionaryEnum {
     public static let hrisRedHover = #b43247
     public static let hrisRedRed = #f0425f
     public static let hrisSecondary = #d8f4ea
-    public static let hrisShadow = [object Object],[object Object]
-    public static let hrisShadowLg = [object Object],[object Object]
-    public static let hrisShadowMd = [object Object],[object Object]
-    public static let hrisShadowSm = [object Object]
-    public static let hrisShadowXl = [object Object],[object Object]
+    public static let hrisShadow0Blur = 2
+    public static let hrisShadow0Color = #0000000f
+    public static let hrisShadow0Spread = 0
+    public static let hrisShadow0Type = dropShadow
+    public static let hrisShadow0X = 0
+    public static let hrisShadow0Y = 1
+    public static let hrisShadow1Blur = 3
+    public static let hrisShadow1Color = #0000001a
+    public static let hrisShadow1Spread = 0
+    public static let hrisShadow1Type = dropShadow
+    public static let hrisShadow1X = 0
+    public static let hrisShadow1Y = 1
+    public static let hrisShadowLg0Blur = 6
+    public static let hrisShadowLg0Color = #0000000d
+    public static let hrisShadowLg0Spread = -2
+    public static let hrisShadowLg0Type = dropShadow
+    public static let hrisShadowLg0X = 0
+    public static let hrisShadowLg0Y = 4
+    public static let hrisShadowLg1Blur = 15
+    public static let hrisShadowLg1Color = #0000001a
+    public static let hrisShadowLg1Spread = -3
+    public static let hrisShadowLg1Type = dropShadow
+    public static let hrisShadowLg1X = 0
+    public static let hrisShadowLg1Y = 10
+    public static let hrisShadowMd0Blur = 4
+    public static let hrisShadowMd0Color = #0000000f
+    public static let hrisShadowMd0Spread = -1
+    public static let hrisShadowMd0Type = dropShadow
+    public static let hrisShadowMd0X = 0
+    public static let hrisShadowMd0Y = 2
+    public static let hrisShadowMd1Blur = 6
+    public static let hrisShadowMd1Color = #0000001a
+    public static let hrisShadowMd1Spread = -1
+    public static let hrisShadowMd1Type = dropShadow
+    public static let hrisShadowMd1X = 0
+    public static let hrisShadowMd1Y = 4
+    public static let hrisShadowSmBlur = 2
+    public static let hrisShadowSmColor = #0000000d
+    public static let hrisShadowSmSpread = 0
+    public static let hrisShadowSmType = dropShadow
+    public static let hrisShadowSmX = 0
+    public static let hrisShadowSmY = 1
+    public static let hrisShadowXl0Blur = 10
+    public static let hrisShadowXl0Color = #0000000a
+    public static let hrisShadowXl0Spread = -5
+    public static let hrisShadowXl0Type = dropShadow
+    public static let hrisShadowXl0X = 0
+    public static let hrisShadowXl0Y = 10
+    public static let hrisShadowXl1Blur = 25
+    public static let hrisShadowXl1Color = #0000001a
+    public static let hrisShadowXl1Spread = -5
+    public static let hrisShadowXl1Type = dropShadow
+    public static let hrisShadowXl1X = 0
+    public static let hrisShadowXl1Y = 20
     public static let hrisSpacing0 = 2px
     public static let hrisSpacing1 = 4px
     public static let hrisSpacing2 = 8px

@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 19 Apr 2023 11:27:31 GMT
+// Generated on Thu, 20 Apr 2023 02:31:19 GMT
 
 
 import UIKit
@@ -78,11 +78,60 @@ internal struct StyleDictionaryStruct {
     internal static let hrisRedHover = #b43247
     internal static let hrisRedRed = #f0425f
     internal static let hrisSecondary = #d8f4ea
-    internal static let hrisShadow = [object Object],[object Object]
-    internal static let hrisShadowLg = [object Object],[object Object]
-    internal static let hrisShadowMd = [object Object],[object Object]
-    internal static let hrisShadowSm = [object Object]
-    internal static let hrisShadowXl = [object Object],[object Object]
+    internal static let hrisShadow0Blur = 2
+    internal static let hrisShadow0Color = #0000000f
+    internal static let hrisShadow0Spread = 0
+    internal static let hrisShadow0Type = dropShadow
+    internal static let hrisShadow0X = 0
+    internal static let hrisShadow0Y = 1
+    internal static let hrisShadow1Blur = 3
+    internal static let hrisShadow1Color = #0000001a
+    internal static let hrisShadow1Spread = 0
+    internal static let hrisShadow1Type = dropShadow
+    internal static let hrisShadow1X = 0
+    internal static let hrisShadow1Y = 1
+    internal static let hrisShadowLg0Blur = 6
+    internal static let hrisShadowLg0Color = #0000000d
+    internal static let hrisShadowLg0Spread = -2
+    internal static let hrisShadowLg0Type = dropShadow
+    internal static let hrisShadowLg0X = 0
+    internal static let hrisShadowLg0Y = 4
+    internal static let hrisShadowLg1Blur = 15
+    internal static let hrisShadowLg1Color = #0000001a
+    internal static let hrisShadowLg1Spread = -3
+    internal static let hrisShadowLg1Type = dropShadow
+    internal static let hrisShadowLg1X = 0
+    internal static let hrisShadowLg1Y = 10
+    internal static let hrisShadowMd0Blur = 4
+    internal static let hrisShadowMd0Color = #0000000f
+    internal static let hrisShadowMd0Spread = -1
+    internal static let hrisShadowMd0Type = dropShadow
+    internal static let hrisShadowMd0X = 0
+    internal static let hrisShadowMd0Y = 2
+    internal static let hrisShadowMd1Blur = 6
+    internal static let hrisShadowMd1Color = #0000001a
+    internal static let hrisShadowMd1Spread = -1
+    internal static let hrisShadowMd1Type = dropShadow
+    internal static let hrisShadowMd1X = 0
+    internal static let hrisShadowMd1Y = 4
+    internal static let hrisShadowSmBlur = 2
+    internal static let hrisShadowSmColor = #0000000d
+    internal static let hrisShadowSmSpread = 0
+    internal static let hrisShadowSmType = dropShadow
+    internal static let hrisShadowSmX = 0
+    internal static let hrisShadowSmY = 1
+    internal static let hrisShadowXl0Blur = 10
+    internal static let hrisShadowXl0Color = #0000000a
+    internal static let hrisShadowXl0Spread = -5
+    internal static let hrisShadowXl0Type = dropShadow
+    internal static let hrisShadowXl0X = 0
+    internal static let hrisShadowXl0Y = 10
+    internal static let hrisShadowXl1Blur = 25
+    internal static let hrisShadowXl1Color = #0000001a
+    internal static let hrisShadowXl1Spread = -5
+    internal static let hrisShadowXl1Type = dropShadow
+    internal static let hrisShadowXl1X = 0
+    internal static let hrisShadowXl1Y = 20
     internal static let hrisSpacing0 = 2px
     internal static let hrisSpacing1 = 4px
     internal static let hrisSpacing2 = 8px

@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 19 Apr 2023 11:27:31 GMT
+// Generated on Thu, 20 Apr 2023 02:31:19 GMT
 
 
 
@@ -81,11 +81,60 @@ class StyleDictionary {
     static const hrisRedHover = #b43247;
     static const hrisRedRed = #f0425f;
     static const hrisSecondary = #d8f4ea;
-    static const hrisShadow = [object Object],[object Object];
-    static const hrisShadowLg = [object Object],[object Object];
-    static const hrisShadowMd = [object Object],[object Object];
-    static const hrisShadowSm = [object Object];
-    static const hrisShadowXl = [object Object],[object Object];
+    static const hrisShadow0Blur = 2;
+    static const hrisShadow0Color = #0000000f;
+    static const hrisShadow0Spread = 0;
+    static const hrisShadow0Type = dropShadow;
+    static const hrisShadow0X = 0;
+    static const hrisShadow0Y = 1;
+    static const hrisShadow1Blur = 3;
+    static const hrisShadow1Color = #0000001a;
+    static const hrisShadow1Spread = 0;
+    static const hrisShadow1Type = dropShadow;
+    static const hrisShadow1X = 0;
+    static const hrisShadow1Y = 1;
+    static const hrisShadowLg0Blur = 6;
+    static const hrisShadowLg0Color = #0000000d;
+    static const hrisShadowLg0Spread = -2;
+    static const hrisShadowLg0Type = dropShadow;
+    static const hrisShadowLg0X = 0;
+    static const hrisShadowLg0Y = 4;
+    static const hrisShadowLg1Blur = 15;
+    static const hrisShadowLg1Color = #0000001a;
+    static const hrisShadowLg1Spread = -3;
+    static const hrisShadowLg1Type = dropShadow;
+    static const hrisShadowLg1X = 0;
+    static const hrisShadowLg1Y = 10;
+    static const hrisShadowMd0Blur = 4;
+    static const hrisShadowMd0Color = #0000000f;
+    static const hrisShadowMd0Spread = -1;
+    static const hrisShadowMd0Type = dropShadow;
+    static const hrisShadowMd0X = 0;
+    static const hrisShadowMd0Y = 2;
+    static const hrisShadowMd1Blur = 6;
+    static const hrisShadowMd1Color = #0000001a;
+    static const hrisShadowMd1Spread = -1;
+    static const hrisShadowMd1Type = dropShadow;
+    static const hrisShadowMd1X = 0;
+    static const hrisShadowMd1Y = 4;
+    static const hrisShadowSmBlur = 2;
+    static const hrisShadowSmColor = #0000000d;
+    static const hrisShadowSmSpread = 0;
+    static const hrisShadowSmType = dropShadow;
+    static const hrisShadowSmX = 0;
+    static const hrisShadowSmY = 1;
+    static const hrisShadowXl0Blur = 10;
+    static const hrisShadowXl0Color = #0000000a;
+    static const hrisShadowXl0Spread = -5;
+    static const hrisShadowXl0Type = dropShadow;
+    static const hrisShadowXl0X = 0;
+    static const hrisShadowXl0Y = 10;
+    static const hrisShadowXl1Blur = 25;
+    static const hrisShadowXl1Color = #0000001a;
+    static const hrisShadowXl1Spread = -5;
+    static const hrisShadowXl1Type = dropShadow;
+    static const hrisShadowXl1X = 0;
+    static const hrisShadowXl1Y = 20;
     static const hrisSpacing0 = 2px;
     static const hrisSpacing1 = 4px;
     static const hrisSpacing2 = 8px;
